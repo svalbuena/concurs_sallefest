@@ -1,3 +1,6 @@
+package easy
+
+
 import java.io.{BufferedWriter, File, FileWriter}
 
 import scala.io.Source

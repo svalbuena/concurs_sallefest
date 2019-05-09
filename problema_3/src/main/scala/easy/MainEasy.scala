@@ -1,6 +1,8 @@
-object Main {
+package easy
+
+object MainEasy {
   def main(args: Array[String]): Unit = {
-    val fileId = "3d"
+    val fileId = "3f"
     val fileHelper = new FileHelper(fileId)
 
     val tests = fileHelper.readFile()
